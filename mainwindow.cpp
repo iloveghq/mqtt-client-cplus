@@ -69,6 +69,8 @@
 //A05 蠕动泵    15s
 //A06 暂时不动
 
+// 测试提交
+
 MainWindow::MainWindow(QWidget *parent) :
     QMainWindow(parent),
     ui(new Ui::MainWindow)
